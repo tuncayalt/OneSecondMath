@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mac/Documents/yazilim/GitRepos/OneSecondMath1/oneSecondMath/build/intermediates/res/merged/debug/raw/gameover.mp3",
+        "source": "/Users/mac/Documents/yazilim/GitRepos/OneSecondMath1/oneSecondMath/src/main/res/raw/gameover.mp3"
+    },
+    {
+        "merged": "/Users/mac/Documents/yazilim/GitRepos/OneSecondMath1/oneSecondMath/build/intermediates/res/merged/debug/raw/trueanswer.mp3",
+        "source": "/Users/mac/Documents/yazilim/GitRepos/OneSecondMath1/oneSecondMath/src/main/res/raw/trueanswer.mp3"
+    },
+    {
+        "merged": "/Users/mac/Documents/yazilim/GitRepos/OneSecondMath1/oneSecondMath/build/intermediates/res/merged/debug/raw/timeout.mp3",
+        "source": "/Users/mac/Documents/yazilim/GitRepos/OneSecondMath1/oneSecondMath/src/main/res/raw/timeout.mp3"
+    }
+]

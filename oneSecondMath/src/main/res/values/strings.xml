@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string translatable="false" name="package_name">com.tuncay.onesecondmath</string>
+    <string name="app_name">One Second Math</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_over">Game Over</string>
+    <string name="game_over_type_time">Time Is Up</string>
+    <string name="game_over_type_wrong">Wrong Answer</string>
+    <string name="game_over_main">Menu</string>
+    <string name="game_over_play_again">Play Again</string>
+    
+    <!-- App rater strings -->
+    <string name="rate">"Rate "</string>
+    <string name="if_enjoy">If you enjoy using </string>
+    <string name="rate_it">, please take a moment to rate it. Thanks for your support!</string>
+    <string name="remind_me">Remind me later</string>
+    <string name="no_thanks">No, thanks</string>
+    
+    
+    <!-- Game specific strings -->
+    <string name="best">Best:</string>
+    <string name="current_score">Current score:</string>
+    
+
+    <string name="signing_in">Signing in with Google</string>
+    <string name="signing_out">Signing out</string>
+    <string name="signed_out_greeting">Hello, anonymous user (not signed in)!</string>
+    <string name="achievements_not_available">Please sign in to view achievements.</string>
+    <string name="leaderboards_not_available">Please sign in to view leaderboards.</string>
+    <string name="achievement_beginner_toast_text">Beginner Achievement!</string>
+    <string name="achievement_intermediate_toast_text">Intermediate Achievement!</string>
+    <string name="achievement_expert_toast_text">Expert Achievement!</string>
+    <string name="achievement_heroic_toast_text">Heroic Achievement!</string>
+    <string name="achievement_legendary_toast_text">Legendary Achievement!</string>
+    <string name="achievement">Achievement</string>
+    <string name="your_progress_will_be_uploaded">Your existing achievements and score will be uploaded shortly.</string>
+    <string name="ok">OK</string>
+    <string name="play_game">Play Game</string>
+    <string name="show_achievements">Achievements</string>
+    <string name="show_leaderboards">Leaderboards</string>
+    <string name="rate_app">Rate App</string>
+    <string name="sign_in_why">Sign in with Google to share your scores and achievements with your friends.</string>
+    <string name="you_are_signed_in">You are signed in with Google.</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_in_to_upload_this_score">Sign in now to upload this score, save your achievements and share your progress with friends.</string>
+
+</resources>

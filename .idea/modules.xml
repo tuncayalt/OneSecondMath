@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OneSecondMath1.iml" filepath="$PROJECT_DIR$/OneSecondMath1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gms/gms.iml" filepath="$PROJECT_DIR$/gms/gms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oneSecondMath/oneSecondMath.iml" filepath="$PROJECT_DIR$/oneSecondMath/oneSecondMath.iml" />
+    </modules>
+  </component>
+</project>

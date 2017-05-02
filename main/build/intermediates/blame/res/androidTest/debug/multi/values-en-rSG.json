@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/mac/Documents/yazilim/GitRepos/OneSecondMath1/main/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/Users/mac/.android/build-cache/651dacdf5a57c8b09b215f5d921ce3f8b4ebeb99/output/res/values-en-rSG/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 244,
+                        "endColumn": 99,
+                        "endOffset": 343
+                    }
+                }
+            }
+        ]
+    }
+]
